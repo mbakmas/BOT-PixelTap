@@ -8,7 +8,8 @@ https://t.me/AirdropFamilyIDN
 - npm install axios readline
 - node index.js
 
-# MULTI ACCOUNT SWITCHING Python Version INPUT MANUAL TIMER CLAIM
+# MULTI ACCOUNT SWITCHING Python Version
+# INPUT MANUAL TIMER CLAIM
 - Git clone https://github.com/AirDropFamilyIDN/BOT-PixelTap.git
 - cd BOT-PixelTap
 - pip install request
