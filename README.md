@@ -12,7 +12,7 @@ https://t.me/AirdropFamilyIDN
 # INPUT MANUAL TIMER CLAIM
 - Git clone https://github.com/AirDropFamilyIDN/BOT-PixelTap.git
 - cd BOT-PixelTap
-- pip install request
+- pip install requests
 - pip install time
 - pip install colorama
 - python bot.py
