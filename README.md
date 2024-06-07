@@ -10,7 +10,7 @@ https://t.me/AirdropFamilyIDN
 
 # MULTI ACCOUNT SWITCHING Python Version
 # INPUT MANUAL TIMER CLAIM
-- Git clone https://github.com/AirDropFamilyIDN/BOT-PixelTap.git
+- git clone https://github.com/AirDropFamilyIDN/BOT-PixelTap.git
 - cd BOT-PixelTap
 - pip install requests
 - pip install time
