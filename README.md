@@ -13,7 +13,8 @@ https://t.me/AirdropFamilyIDN
 - git clone https://github.com/AirDropFamilyIDN/BOT-PixelTap.git
 - cd BOT-PixelTap
 - pip install requests
-- pip install time
+- pip install times
+- pip install art
 - pip install colorama
 - python bot.py
 
